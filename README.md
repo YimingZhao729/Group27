@@ -166,24 +166,43 @@
 
 ## 3. 项目结果
 实时热门电影分析表
+
 ![img_5.png](img_5.png)
+
 实时热门电影分析运行结果图
+
 ![img_10.png](img_10.png)
+
 用户行为统计表
+
 ![img_6.png](img_6.png)
+
 用户行为运行结果图
+
 ![img_11.png](img_11.png)
+
 电影评分统计表
+
 ![img_4.png](img_4.png)
+
 电影评分统计运行结果图
+
 ![img_12.png](img_12.png)
+
 模型评估结果表
+
 ![img_2.png](img_2.png)
+
 模型评估运行结果图
+
 ![img_13.png](img_13.png)
+
 推荐结果表
+
 ![img_3.png](img_3.png)
+
 推荐结果运行图
+
 ![img_14.png](img_14.png)
 
 ## 4. 项目分工
